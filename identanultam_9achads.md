@@ -8,7 +8,7 @@ Ez a dokumentum arrol szol hogy ebben az évben mit tanultunk nagyjábol
 
 A szoftverfejlesztes során nem csak kódolunk hanem folyamatokat menedzselünk. Az alábbi keretrendszereket vettük át:
 
-### Scrum
+### scrum
 A legnépszerűbb agilis keretrendszer amely rövid ciklusokra (**sprintekre**) bontja a munkát
 * **szerepkörök:** Scrum Master Product Owner Fejlesztői csapat.
 * **események:** Daily Scrum Sprint Planning, Sprint Review
