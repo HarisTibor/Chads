@@ -20,7 +20,7 @@ A modern szoftverfejlesztés során alkalmazott keretrendszerek a hatékonyság 
 
 ---
 
-## 2. Rendszerüzemeltetés
+## 2. rendszerüzemeltetés
 
 ### Virtualizáció
 * **Lényege:** Egy fizikai hardveren több, egymástól független operációs rendszer (VM) futtatása.
