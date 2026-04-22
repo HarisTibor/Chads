@@ -30,5 +30,5 @@ A jelenséghez szorosan kapcsolódik a *looksmaxxing*, ami az egyén fizikai meg
 
 ---
 *Készítette a Chads csapat*
-* **GitHub:** 
+* **GitHub:** https://github.com/HarisTibor/Chads.git
 * **Trello tábla:** https://trello.com/invite/b/69ba6259b9c567d48ff254de/ATTIef3d4f24f2c1b0122f2df83d688baea6DBD3680A/chads
